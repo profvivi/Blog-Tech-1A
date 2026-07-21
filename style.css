@@ -4,6 +4,7 @@ header {
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
+    text-align: center;
 }
 
 h1{
@@ -16,7 +17,7 @@ main{
     color: #013005;
     max-width: 800px;
     margin: 0 auto;
-    text-align: center;
+    
     display: flex;
     
 }
