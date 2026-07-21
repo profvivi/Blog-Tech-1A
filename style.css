@@ -16,8 +16,10 @@ main{
     color: #013005;
     max-width: 800px;
     margin: 0 auto;
-    text-align: center;
+   
     display: flex;
+    justify-content: center; 
+    align-items: center; 
 }
  img{
 
