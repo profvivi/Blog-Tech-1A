@@ -27,14 +27,11 @@ main{
 
     width: 80px;
     border: 4px solid #090435;
-    height:80px ;
-    
-    
+    height:80px ; 
  }
 
 .artigo-autor {
 font-weight: bold;
-color: #eb0f0f;
 }
 
 
