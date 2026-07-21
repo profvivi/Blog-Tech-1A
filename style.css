@@ -21,6 +21,9 @@ main{
     display: flex;
     justify-content: center; 
     align-items: center; 
+
+    gap: 20px; /* Cria um espaço controlado de 20px entre a imagem e o texto */
+    padding: 20px; /* Evita que o conteúdo cole nas bordas do fundo verde */
     
 }
  img{
