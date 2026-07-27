@@ -34,8 +34,10 @@ main{
     font-weight: bold;
 }
 
-footer(
+footer{
     background-color:#b4cbc5;
-)
+}
+    
+
 
 
