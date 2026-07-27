@@ -22,7 +22,7 @@ main{
 
  img{
     width: 150px; /* define a largura fixa da imagem */
-    height:200px ; /* define a altura fixa da imagem */
+    height:150px ; /* define a altura fixa da imagem */
     border: 2px solid #17048f; /* adiciona uma borda sólida de 2px na cor azul/roxa */
     display: block;
     margin: 0 auto;
