@@ -31,7 +31,11 @@ main{
  }
 
 .artigo-autor {
-font-weight: bold;
+    font-weight: bold;
 }
+
+footer(
+    background-color:#b4cbc5;
+)
 
 
