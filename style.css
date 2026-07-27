@@ -21,8 +21,8 @@ main{
 }
 
  img{
-    width: 80px; /* define a largura fixa da imagem */
-    height:80px ; /* define a altura fixa da imagem */
+    width: 250px; /* define a largura fixa da imagem */
+    height:300px ; /* define a altura fixa da imagem */
     border: 2px solid #17048f; /* adiciona uma borda sólida de 2px na cor azul/roxa */
     display: block;
     margin: 0 auto;
