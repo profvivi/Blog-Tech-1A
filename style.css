@@ -20,9 +20,12 @@ main{
     
 }
 
-article{
- display: flex; /* ativa o flexbox para alinhar os elementos filhos lado a lado */  
+article {
+    display: flex; 
+    flex-direction: column; /* FORÇA o texto e os parágrafos a irem para baixo da imagem */
+    margin-bottom: 40px;    /* Cria um espaçamento bem legal entre o primeiro e o segundo post */
 }
+
 
  img{
     width: 150px; /* define a largura fixa da imagem */
