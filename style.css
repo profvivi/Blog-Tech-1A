@@ -5,6 +5,7 @@ header {
     max-width: 800px; /* define a largura máxima que o elemento pode ter */
     margin: 0 auto; /* centraliza o bloco inteiro na tela */
     padding: 16px; /* espaçamento interno entre a borda e o conteúdo */
+    font-family: sans-serif;
 }
 
 h1{
