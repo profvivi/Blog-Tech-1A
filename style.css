@@ -38,7 +38,7 @@ article {
 }
 
 .texto-curto {
-    max-width: 45ch; /* Limita a linha a cerca de 45 caracteres */
+    max-width: 65ch; /* Limita a linha a cerca de 45 caracteres */
 }
  
 
