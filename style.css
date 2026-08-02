@@ -22,6 +22,7 @@ main{
 
 article {
     display: flex; 
+    margin-bottom: 40px; /* Empurra o artigo de baixo, criando o espaço */
 }
 
 
