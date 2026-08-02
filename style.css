@@ -37,6 +37,7 @@ article {
     border: 2px solid #17048f; /* adiciona uma borda sólida de 2px na cor azul/roxa */
     display: block; /* transforma a imagem em um bloco para aceitar margens verticais e quebra de linha */
     margin: 0 auto; /* centraliza a imagem horizontalmente na tela */
+    align-self: center; 
 }
 
 .artigo-autor {
