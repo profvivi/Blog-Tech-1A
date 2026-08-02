@@ -43,7 +43,7 @@ article {
 }
 
 footer {
-    background-color: #013005; /* Mesma cor escura do texto do header para combinar */
+    background-color: #b4cbc5; /* Mesma cor escura do texto do header para combinar */
     color: #ffffff;            /* Cor da fonte branca para dar contraste e leitura */
     text-align: center;        /* Centraliza o texto horizontalmente */
     max-width: 800px;          /* Mantém o mesmo alinhamento do header e do main */
