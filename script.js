@@ -1,3 +1,34 @@
+/*1A const botao = document.querySelector("button");
+botao.addEventListener("click", botaoClicado);
+function botaoClicado() {
+console.log("fui clicado");
+}
+function botaoClicado() {
+let texto = botao.querySelector("span");
+texto.textContent++;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Seleciona todos os elementos <button> da página e os guarda na constante 'botoes' como uma lista
 const botoes = document.querySelectorAll("button");
 
