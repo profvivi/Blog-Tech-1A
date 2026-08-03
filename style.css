@@ -56,6 +56,22 @@ footer {
     font-size: 14px;           /* Deixa o texto do rodapé um pouco menor e discreto */
 }
 
+/* Quando a tela do aparelho for menor ou igual a 600px (celulares) */
+@media (max-width: 600px) {
+    
+    article {
+        flex-direction: column; /* Transforma o layout em coluna (texto vai para baixo da imagem) */
+        text-align: center;     /* Centraliza os textos do post para combinar com o celular */
+        gap: 15px;              /* Cria um espaço fixo entre a imagem e o texto empilhado */
+    }
+
+    /* Remove o limite de caracteres no celular para o texto aproveitar toda a largura da tela */
+    article:nth-of-type(2) p {
+        max-width: 100%; 
+    }
+}
+
+
  
 
 
